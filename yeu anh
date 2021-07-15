@@ -1,0 +1,19 @@
+const CONFIG = {
+    introTitle: 'Bae à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao anh cứ đi nhầm đường
+    Lạc vào tim emm lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'ấn đi',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng anh cũng say em từ lúc thấy nụ cười ấy ',
+    btnYes: 'Yêu em nhiều',
+    btnNo: 'Anh thử nói không đi',
+    question:'Trên thế giới hơn 7 tỉ người mà sao anh lại yêu em',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Em biết mà 🥰. Yêu anh nhiều nhiều 😘😘',
+    messDesc: 'anh co muon an toi khong',
+    btnAccept: 'Okiiiii luôn <3',
+    messLink: 'https://www.messenger.com/t/100052809850873/'
+}
